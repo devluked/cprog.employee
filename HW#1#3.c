@@ -1,10 +1,3 @@
-/***************************
-//This program finds salary raises
-//Made by: Luke Duggan
-//ID#: 1061931
-//10/22/2017
-//CS 36
-//**************************/
 float input();
 float rate(float s);
 void findRaise(float s, float rt, float *rs, float *tolraise);
